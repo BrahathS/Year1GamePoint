@@ -8,3 +8,5 @@ The steps that followed to create the game in JavaScript
 - movement of the characters 
 - interaction of the character (jump & falls)
 - adding the loop background and addons such as sounds and giving enemies that will follow the character. 
+
+![image](https://user-images.githubusercontent.com/65470365/209470530-bb8fc93a-aa66-415e-a8fd-343c23efe3eb.png)
